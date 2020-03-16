@@ -1,0 +1,30 @@
+Id do aplicativo: ca-app-pub-6828909553286825~5817339983
+Id do anuncio  ca-app-pub-6828909553286825/4568547938
+
+compile 'com.google.android.gms:play-services-ads:9.2.1'
+
+ implementation 'com.google.android.gms:play-services-ads:15.0.0'
+
+<uses-permission android:name="android.permission.INTERNET"/>
+
+
+
+
+<com.google.android.gms.ads.AdView
+
+ads:adSize="BANNER"
+ads:adUnitId=""
+
+private AdView AdBanner;
+
+AdBanner =          (AdView) findViewById(R.id.AdBanner);
+
+AdRequest adRequest = new AdRequest.Builder().build();
+AdBanner.loadAd(adRequest);
+
+
+
+
+<meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/AD_MOB_ID_Propaganda"/>

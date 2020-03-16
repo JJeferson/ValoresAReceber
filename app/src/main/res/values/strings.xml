@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ValoresAReceber</string>
+
+    <string name="agenda_financeira">Agenda Financeira</string>
+    <string name="add_ID">+</string>
+    <string name="listar_ID">Listar Todos</string>
+    <string name="pesquisa_ID">Pesquisar</string>
+    <string name="hint_ID">Referente aos ultimos 7 dias</string>
+    <string name="totais_ID">Totais</string>
+    <string name="Voltar">Voltar</string>
+    <string name="Listar_Tudo">Listar tudo, ultimos 7 dias.</string>
+    <string name="Nome">Nome</string>
+    <string name="Fone">Fone</string>
+    <string name="Emissao">Emissao</string>
+    <string name="dt_VCTO" />
+    <string name="DT_VCTO">DT_VCTO</string>
+    <string name="Valor_PGTO">Valor_PGTO</string>
+    <string name="Valor">Valor</string>
+    <string name="AD_MOB_ID_Propaganda">ca-app-pub-6828909553286825/4568547938</string>
+</resources>
